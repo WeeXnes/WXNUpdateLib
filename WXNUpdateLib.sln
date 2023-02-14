@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WXNUpdateLib", "WXNUpdateLib\WXNUpdateLib.csproj", "{AD6F4BD9-9F74-4F5E-B8C0-7D10D10A2C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WXNUpdate", "WXNUpdate\WXNUpdate.csproj", "{E857B0E9-589B-47DF-9462-28378E9A64F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6F4BD9-9F74-4F5E-B8C0-7D10D10A2C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6F4BD9-9F74-4F5E-B8C0-7D10D10A2C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6F4BD9-9F74-4F5E-B8C0-7D10D10A2C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6F4BD9-9F74-4F5E-B8C0-7D10D10A2C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E857B0E9-589B-47DF-9462-28378E9A64F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E857B0E9-589B-47DF-9462-28378E9A64F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E857B0E9-589B-47DF-9462-28378E9A64F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E857B0E9-589B-47DF-9462-28378E9A64F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

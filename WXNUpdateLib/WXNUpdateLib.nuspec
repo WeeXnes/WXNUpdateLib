@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>WXNUpdateLib</title>
+    <authors>WeeXnes</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/WeeXnes/WXNUpdateLib</projectUrl>
+    <description>Simple Updater Library</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Update</tags>
+  </metadata>
+  <files>
+    <file src="WXNUpdate.exe" target="Build" />
+    <file src="WXNUpdateLib.targets" target="Build" />
+  </files>
+</package>
